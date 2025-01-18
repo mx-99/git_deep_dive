@@ -1,2 +1,8 @@
-# git_deep_dive
-Git guide from The Odin Project, covering history rewriting, rebasing, and Git pointers,
+# Git deep dive - The Odin Project
+
+Techniques including commit history rewriting, rebasing, and Git pointers.
+
+## Topics:
+- Amending commits
+- Rebase and squash
+- Git pointers
